@@ -1,0 +1,7 @@
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40Week3Day2\BmiCalculator\bin\Debug\BmiCalculator.exe.config
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40Week3Day2\BmiCalculator\bin\Debug\BmiCalculator.exe
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40Week3Day2\BmiCalculator\bin\Debug\BmiCalculator.pdb
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40Week3Day2\BmiCalculator\obj\Debug\BmiCalculator.csprojAssemblyReference.cache
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40Week3Day2\BmiCalculator\obj\Debug\BmiCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40Week3Day2\BmiCalculator\obj\Debug\BmiCalculator.exe
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40Week3Day2\BmiCalculator\obj\Debug\BmiCalculator.pdb
